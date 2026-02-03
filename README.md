@@ -1,4 +1,4 @@
-<img width="1692" height="642" alt="image" src="https://github.com/user-attachments/assets/99e43dfb-dbaa-482e-886b-9d5449cf0649" />Hi, I’m Krish a Data Analyst passionate about turning data into actionable insights.
+Hi, I’m Krish a Data Analyst passionate about turning data into actionable insights.
 
 This repository contains my end-to-end data analytics projects using Excel, SQL, Power BI, and Python. Each project focuses on real-world business problems, data cleaning, analysis, visualization, and clear communication of insights.
 
@@ -48,6 +48,7 @@ The dataset was cleaned and structured to ensure accurate analysis. Using **Pivo
 ### 💡 Insights Generated
 
 The analysis highlights high-performing products and regions while identifying areas where sales targets were not met. This helps stakeholders focus on improvement opportunities and optimize sales strategies.
+<img width="1692" height="642" alt="image" src="https://github.com/user-attachments/assets/134c44c4-4dbc-4602-a4ed-f7be10bd429d" 
 
 ### 🚀 Future Enhancements
 
@@ -56,6 +57,6 @@ The analysis highlights high-performing products and regions while identifying a
 * Migrating the dashboard to Power BI or Tableau
 
 ---
-<img width="1692" height="642" alt="image" src="https://github.com/user-attachments/assets/134c44c4-4dbc-4602-a4ed-f7be10bd429d" />
+/>
 
 
