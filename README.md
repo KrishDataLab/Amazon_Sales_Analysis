@@ -1,6 +1,6 @@
 Hi, I’m Krish a Data Analyst passionate about turning data into actionable insights.
 
-This repository contains my end-to-end data analytics projects using Excel. Each project focuses on real-world business problems, data cleaning, analysis, visualization, and clear communication of insights.
+This repository contains my end-to-end data analytics project using Excel. Each project focuses on real-world business problems, data cleaning, analysis, visualization, and clear communication of insights.
 
 
 
@@ -48,7 +48,8 @@ The dataset was cleaned and structured to ensure accurate analysis. Using **Pivo
 ### 💡 Insights Generated
 
 The analysis highlights high-performing products and regions while identifying areas where sales targets were not met. This helps stakeholders focus on improvement opportunities and optimize sales strategies.
-<img width="1692" height="642" alt="image" src="https://github.com/user-attachments/assets/134c44c4-4dbc-4602-a4ed-f7be10bd429d" />
+<img width="862" height="672" alt="image" src="https://github.com/user-attachments/assets/3fd81969-fbb9-4a69-b226-f2cddbe41c9a" />
+
 
 ### 🚀 Future Enhancements
 
